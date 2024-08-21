@@ -3,6 +3,11 @@
 ## 🌟 Summary
 DevOps/Cloud Architect with 2 years of experience in cloud infrastructure, network design, and automation. Proven ability to design, implement, and maintain cloud-based systems and applications. Proficient in using multiple DevOps tools to improve the scalability and reliability of cloud solutions. Experienced in creating and deploying comprehensive cloud architectures.
 
+
+## Certified AWS Solution Architect
+![Badge of AWS CLoud Practitioner](https://vmusketeers.com/wp-content/uploads/2018/11/AWS_CP.png)
+
+
 ## 💼 Experience
 
 ### 🚀 DevOps / Cloud Architect
