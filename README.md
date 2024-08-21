@@ -5,7 +5,12 @@ DevOps/Cloud Architect with 2 years of experience in cloud infrastructure, netwo
 
 
 ## Certified AWS Solution Architect
-![Badge of AWS CLoud Practitioner](https://vmusketeers.com/wp-content/uploads/2018/11/AWS_CP.png)
+<div align="center">
+  <img src="https://vmusketeers.com/wp-content/uploads/2018/11/AWS_CP.png" alt="Badge of AWS Cloud Practitioner" width="150" height="150">
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png" alt="Badge of AWS Solution Architect Associate" width="150" height="150">
+</div>
+
+
 
 
 ## 💼 Experience
