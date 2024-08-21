@@ -1,8 +1,7 @@
-# Karam Hussain's CV 📄
+# Karam Hussain's Bio Summary 📄
 
 ## 🌟 Summary
 DevOps/Cloud Architect with 2 years of experience in cloud infrastructure, network design, and automation. Proven ability to design, implement, and maintain cloud-based systems and applications. Proficient in using multiple DevOps tools to improve the scalability and reliability of cloud solutions. Experienced in creating and deploying comprehensive cloud architectures.
-
 
 ## Certified AWS Solution Architect
 <div align="center">
@@ -10,8 +9,7 @@ DevOps/Cloud Architect with 2 years of experience in cloud infrastructure, netwo
   <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png" alt="Badge of AWS Solution Architect Associate" width="150" height="150">
 </div>
 
-
-
+<!-- Add a professional picture of yourself here -->
 
 ## 💼 Experience
 
