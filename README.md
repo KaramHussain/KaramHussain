@@ -5,7 +5,7 @@ DevOps/Cloud Architect with 4 years of experience in cloud infrastructure, netwo
 
 ## Certified AWS Solution Architect
 <div align="center">
-  <img src="https://vmusketeers.com/wp-content/uploads/2018/11/AWS_CP.png](https://w7.pngwing.com/pngs/669/239/png-transparent-kubernetes-linux-foundation-certification-cloud-native-computing-foundation-test-kubernetes-blue-text-logo-thumbnail.png" alt="CKA" width="150" height="150">
+  <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" alt="CKA" width="150" height="150">
   <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect_Associate_512x512.d82aee07920970350c427c8d0542bc239180a486.png" alt="Badge of AWS Solution Architect Associate" width="150" height="150">
 </div>
 
