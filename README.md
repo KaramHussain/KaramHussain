@@ -3,7 +3,7 @@
 ## 🌟 Summary
 DevOps/Cloud Architect with 4 years of experience in cloud infrastructure, network design, and automation. Proven ability to design, implement, and maintain cloud-based systems and applications. Proficient in using multiple DevOps tools to improve the scalability and reliability of cloud solutions. Experienced in creating and deploying comprehensive cloud architectures.
 
-## Certified AWS Solution Architect
+## Certified In 
 <div align="center">
   <img src="https://training.linuxfoundation.org/wp-content/uploads/2018/06/logo_cka_whitetext.png" alt="CKA" width="160" height="160">
   <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform Associate" width="160" height="160">
