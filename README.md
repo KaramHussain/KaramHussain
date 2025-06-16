@@ -6,10 +6,9 @@ DevOps/Cloud Architect with 4 years of experience in cloud infrastructure, netwo
 ## Certified AWS Solution Architect
 <div align="center">
   <img src="https://training.linuxfoundation.org/wp-content/uploads/2018/06/logo_cka_whitetext.png" alt="CKA" width="160" height="160">
-  <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform Associate" width="160" height="160"">
-  <img src="https://content.cloudthat.com/resources/wp-content/uploads/2023/12/dgt.png" alt="Terraform Associate" width="160" height="160"">
-
-  
+  <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform Associate" width="160" height="160">
+  <img src="https://content.cloudthat.com/resources/wp-content/uploads/2023/12/dgt.png" alt="AWS Cloud Practitioner" width="160" height="160">
+  <img src="https://miro.medium.com/v2/resize:fit:600/1*E6tqmlvuylHL8SMlOYUqhQ.png" alt="AWS Solution Architect Associate" width="160" height="160">
 </div>
 
 
