@@ -5,8 +5,8 @@ DevOps/Cloud Architect with 4 years of experience in cloud infrastructure, netwo
 
 ## Certified AWS Solution Architect
 <div align="center">
-  <img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" alt="CKA" width="390" height="200">
-  <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform Associate" width="230" height="240" style="position: relative; top: 20px;">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-kubernetes-administrator-cka%2F&psig=AOvVaw12BIUhGm-TwzwvK5IEGiCH&ust=1750188245563000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjsmrnV9o0DFQAAAAAdAAAAABAL" alt="CKA" width="390" height="200">
+  <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform Associate" width="230" height="240"">
 </div>
 
 
