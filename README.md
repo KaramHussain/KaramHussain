@@ -1,7 +1,7 @@
 # Karam Hussain's Bio Summary 📄
 
 ## 🌟 Summary
-DevOps/Cloud Architect with 2 years of experience in cloud infrastructure, network design, and automation. Proven ability to design, implement, and maintain cloud-based systems and applications. Proficient in using multiple DevOps tools to improve the scalability and reliability of cloud solutions. Experienced in creating and deploying comprehensive cloud architectures.
+DevOps/Cloud Architect with 4 years of experience in cloud infrastructure, network design, and automation. Proven ability to design, implement, and maintain cloud-based systems and applications. Proficient in using multiple DevOps tools to improve the scalability and reliability of cloud solutions. Experienced in creating and deploying comprehensive cloud architectures.
 
 ## Certified AWS Solution Architect
 <div align="center">
@@ -103,6 +103,8 @@ City University of Science and Information Technology, Peshawar, Pakistan (2021)
 📊 CGPA: 3.04
 
 ## 📜 Certifications
+- 🎓 **Terraform** - Certified Terrafom from HashiCorp
+- 🎓 **CKA** - Certified Kubernetes Administrator
 - 🎓 **Udemy Labs** - Online Kubernetes Lab, KodeKloud (2024)
 - 🎓 **AWS Cloud Practitioner**, AWS (2023)
 - 🎓 **AWS Solution Architect Associate**, AWS (2023)
