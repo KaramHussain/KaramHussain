@@ -1,121 +1,150 @@
-# Karam Hussain's Bio Summary 📄
+<!--
+  GitHub Profile README for Karam Hussain
+  → Rename this file to README.md and put it in a repo named exactly "<your-github-username>"
+    (a repo named after your username renders on your profile page).
+  → Replace every <your-github-username> and the LinkedIn URL below with your real handles.
+-->
 
-## 🌟 Summary
-DevOps/Cloud Architect with 4 years of experience in cloud infrastructure, network design, and automation. Proven ability to design, implement, and maintain cloud-based systems and applications. Proficient in using multiple DevOps tools to improve the scalability and reliability of cloud solutions. Experienced in creating and deploying comprehensive cloud architectures.
+<h1 align="center">Karam Hussain</h1>
 
-## Certified In 
-<div align="center">
-  <img src="https://training.linuxfoundation.org/wp-content/uploads/2018/06/logo_cka_whitetext.png" alt="CKA" width="160" height="160">
-  <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="Terraform Associate" width="160" height="160">
-  <img src="https://content.cloudthat.com/resources/wp-content/uploads/2023/12/dgt.png" alt="AWS Cloud Practitioner" width="160" height="160">
-  <img src="https://miro.medium.com/v2/resize:fit:600/1*E6tqmlvuylHL8SMlOYUqhQ.png" alt="AWS Solution Architect Associate" width="160" height="160">
-</div>
+<p align="center">
+  <b>Senior DevOps / Cloud & Platform Engineer</b> · AWS · Azure · GCP · Kubernetes · Terraform<br>
+  Building & automating secure, scalable cloud — plus AI/LLM platforms end to end.
+</p>
 
+<p align="center">
+  <a href="https://cloudgeniee.com"><img src="https://img.shields.io/badge/Website-cloudgeniee.com-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:iqbalkaram44@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<!-- Add a professional picture of yourself here -->
+---
+
+## 👋 About Me
+
+DevOps / Cloud & Platform Engineer with **6+ years** of experience across **AWS, Azure and GCP** — cloud infrastructure, automation, platform engineering and DevSecOps. I design **scalable, secure, compliant** architectures (HIPAA, SOC 2, GDPR, NIST) and build the reliability layer underneath modern products.
+
+- 🔧 **DevOps & IaC:** CI/CD pipelines, Terraform, Kubernetes, Docker, GitOps.
+- 🔒 **DevSecOps:** shift-left security — SAST/DAST, secret scanning, OIDC, RBAC, secrets management.
+- 🤖 **AI & LLM:** I build and run **RAG chatbots, LangChain pipelines and LLM applications** end to end.
+- 💻 **Full-stack:** React / Next.js, Node.js / TypeScript, Python (FastAPI, Flask, Django), PostgreSQL.
+- 💰 **FinOps:** cloud cost optimization — cut spend by up to **50%**.
+- ⭐ **110+ freelance projects**, every one rated **5 stars**.
+
+> 💡 I'm also **CTO & Co-Founder of [CloudGeniee](https://cloudgeniee.com)**, where I built and operate **ChatGeniee**, a production multi-tenant AI SaaS (see below).
+
+---
+
+## 🛠️ Tech Stack
+
+**☁️ Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**⚙️ DevOps & IaC**  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+**🔁 CI/CD**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+**📊 Observability & Security**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Vault](https://img.shields.io/badge/DevSecOps-OIDC%20·%20RBAC%20·%20SAST%2FDAST-1E2A44?style=for-the-badge&logo=hashicorp&logoColor=white)
+
+**🤖 AI / LLM & Full-Stack**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+![AWS SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CKA](https://img.shields.io/badge/Certified%20Kubernetes%20Administrator%20(CKA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp%20Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS CP](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+
+---
+
+## 🚀 Featured Project — ChatGeniee (CloudGeniee)
+
+A **production multi-tenant AI SaaS** I architected, built and operate end to end — proof I can take an AI product from first commit to live, paying users.
+
+- 🧠 **RAG + LLM pipeline:** document ingestion, chunking, embeddings, vector search (pgvector) and **grounded answers** — built with **LangChain** on **AWS Bedrock**, with strict anti-hallucination fallbacks.
+- 🏗️ **Full stack:** **Next.js / React** frontend, **Node.js / TypeScript** + **Python / Flask** backend, **PostgreSQL / pgvector**, embeddable widget.
+- 🔐 **Multi-tenant isolation**, auth, and per-tenant model switching.
+- ☁️ **Deployed on AWS**, Dockerized, with CI/CD, monitoring and security baked in.
+
+🔗 **[cloudgeniee.com](https://cloudgeniee.com)** · **[app.cloudgeniee.com](https://app.cloudgeniee.com)**
+
+---
 
 ## 💼 Experience
 
-### 🚀 DevOps / Cloud Architect
-**K2X** (August 2023 - May 2024, Peshawar, Pakistan)
-- 🛠️ Deployed and managed applications on AWS, optimizing performance and scalability.
-- 🔒 Set up and configured private servers, including networking and security measures.
-- 📦 Utilized Proxmox for server virtualization, reducing hardware costs and improving resource utilization.
-- 🐧 Demonstrated proficiency in Linux operating systems, including command-line interfaces for efficient system management.
-- 🤖 Automated builds and deployment tasks using Jenkins, streamlining the development process.
-- 🚧 Implemented CI/CD workflows using CodePipeline, ensuring rapid and reliable software delivery.
-- 🔄 Practiced version control with GitHub, facilitating collaboration and code review processes.
-- 🐋 Utilized Docker for containerization, enhancing application deployment and scalability.
-- ☁️ Deployed basic applications on Microsoft Azure cloud platform.
-- 🌐 Set up and managed web servers using NGINX and Apache, attaching SSL certificates for secure communication.
-- ⚙️ Leveraged GitHub Actions for automating software workflows directly within GitHub.
-- 📝 Wrote Bash scripts to automate deployment tasks and perform regular operations.
-- 💻 Migrated heavy-load ML applications to Proxmox, optimizing resource allocation and minimizing costs.
-- 👥 Led and organized DevOps team, providing training and assigning tasks to interns.
-- 🌀 Worked on Kubernetes, managing Cluster, Nodes, Pods, etc.
-- 🔧 Collaborated with developers to modify code for production environments.
-- 📊 Introduced PM2 monitoring logs for developers to track production environment logs.
-- 🗄️ Set up and managed MongoDB, MySQL, and PostgreSQL databases, including migration tasks.
-- 🔄 Configured Redis server for efficient caching and data storage.
-- 🔀 Implemented multiple port forwarding in Proxmox for VMs.
-- 🌐 Created public and private subnets in Proxmox, managing network configurations.
-- 🌍 Managed DNS configurations using Route53, Azure DNS, and performed DNS migrations.
-- 🛠️ Worked with various AWS services, including Lambda, S3, Route53, SNS, SQS, Autoscaling, ELB, EBS, API Gateway, ECS, IAM, CloudFront, Certificate Manager, ECR, CodeCommit, CodePipeline, and DynamoDB.
-- 🐳 Dockerized company applications, utilizing ECR for image creation and deployment processes.
-- 💾 Migrated MongoDB and MySQL databases to new environments.
-- 🚀 Deployed multiple applications, including Laravel, CodeIgniter, Node.js, Golang, and Flask.
+**🧭 DevOps / Cloud Engineer & Tech Lead** — *Troon Technologies* · Jun 2026 – Present  
+Own releases, incidents and change management across multiple **AWS** projects. Enforced CI/CD security gates (Semgrep, Gitleaks, Trivy, SonarQube, Codacy), moved secrets to **Azure Key Vault / AWS Secrets Manager**, and enforced **RBAC + keyless OIDC**. Built observability (Azure Monitor, CloudWatch) and **site-to-site / point-to-site VPN** with private endpoints for a healthcare client, hardened to **NIST**.
 
-### 💻 DevOps / AWS Solution Architect/ Cloud Support
-**Fiverr** (June 2023 - February 2024)
-- ⭐ Completed 85 projects with consistent 5-star reviews.
-- 🌐 Worked on diverse projects: ECS Fargate deployments, troubleshooting, application migrations to AWS and Azure.
-- 💾 Expertise in database recovery and migration.
-- 🌐 Assisted in domain name migrations between hosting providers.
-- 🔐 Setup VPNs for secure communication.
-- ⚙️ Developed and implemented pipelines for deployment automation.
-- 🤖 Provided scripting solutions for task automation.
-- ⚡ Implemented Lambda functions for EC2 start/stop automation, integrating with API Gateway for cost optimization.
-- 🏗️ Designed over 20 unique architectures tailored to client needs.
+**🏗️ DevOps Engineer & Solution Architect (Contract)** — *Codora* · May 2025 – May 2026  
+Owned full **AWS** infrastructure for a blockchain app with **Terraform** IaC and a gated infra pipeline. Solution Architect for a **RAG/LLM AI assistant on LangChain** (owned deployment). Led **FinOps** cutting cloud costs ~**50%**. Earned **CKA** and **Terraform Associate**.
 
-### 🖥️ AWS Solution Architect
-**Contour Software** (November 2022 - February 2023, Islamabad, Pakistan)
-- 🛠️ Developed expertise in designing and establishing robust infrastructure on AWS.
-- 🏗️ Enhanced the design and performance of cloud architectures on AWS.
-- 🧰 Studied Terraform technology for infrastructure management in AWS.
-- 🐧 Acquired skills in Linux for smoother deployments, troubleshooting, and server management.
-- 🐳 Became adept at containerization techniques using Docker.
+**☁️ DevOps / Cloud Engineer** — *Cloudelligent* · Apr 2024 – Apr 2025  
+Enterprise CI/CD (Jenkins, GitHub Actions), **GitOps** with **EKS + Helm + ArgoCD**, multi-account AWS/Azure IaC, DevSecOps, observability, and on-prem → cloud migrations. Enforced GDPR, SOC 2, HIPAA, NIST.
 
-## 🛠️ Projects
+**🚀 DevOps Engineer (Junior → Senior)** — *K2X Tech* · Jan 2022 – Mar 2024  
+Progressed to Senior, leading DevOps architecture for high-availability AWS systems, advanced CI/CD, DevSecOps, MLOps pipelines (MLflow, DVC), and mentoring junior engineers.
 
-### 🌐 Serverless Client Application Deployment on AWS
-**Fiverr** (January 2024)
-- 🖥️ Deployed frontend on S3 with CloudFront for serverless distribution.
-- ⚙️ Utilized ECS Fargate for backend deployment.
+**💻 Freelance DevOps / Cloud Engineer** — *Fiverr* · Dec 2020 – Dec 2021  
+**110+ projects, all 5-star.** Kubernetes on AKS/GKE, Azure/GCP infra, CI/CD, NIST-aligned security, Terraform + Bash/Python automation.
 
-### 🤖 Microservices ML Application Deployment
-**K2X** (November 2023 - January 2024)
-- 🛠️ Orchestrated deployment of a microservices-based ML application with Jenkins pipeline.
-- 🐳 Dockerized each service and application.
-- 🌐 Implemented on Proxmox on a Hetzner server, leveraging Hetzner DNS for domain management.
+**🎓 AWS Solution Architect Intern** — *Contour Software* · Jan 2021 – Mar 2021
 
-### 🔧 Setup of Proxmox Server Infrastructure
-**K2X** (August 2023 - October 2023)
-- 🛠️ Installed and configured Proxmox, creating public and private subnets, port forwarding, and setting up NGINX / Apache.
+---
 
-### 🚀 Migration of Client Application to AWS
-**Fiverr** (July 2023 - August 2023)
-- 🛠️ Migrated client's on-premises application to AWS, including databases and domain configurations.
+## 🧰 Skills
 
-### 📈 Manual Autoscaling Using AWS Service and Boto3
-**Master's Project** (April 2023 - July 2023)
-- 📊 Monitored application load metrics using Boto3 scripts.
-- 📈 Defined scaling policies based on CPU utilization and memory usage.
-- ⚡ Created a Lambda function triggered by CloudWatch alarms.
-- 🛠️ Used Boto3 to spin up or terminate EC2 instances dynamically.
-- ⚙️ Updated load balancer configuration via Boto3.
-- 📡 Integrated with CloudWatch and SNS for monitoring and notifications.
-- 🖥️ Visualized scaling activities in Grafana.
+**Cloud:** AWS (EC2, ECS, EKS, S3, VPC, Lambda, CloudFront) · Azure (AKS, App Service, Container Apps, Functions, Azure SQL, Key Vault, Entra ID, VPN/App Gateways) · GCP (GKE, Compute Engine)  
+**IaC & Config:** Terraform (reusable modules, IaC pipelines) · Ansible  
+**Containers:** Docker · Kubernetes (EKS/AKS/GKE) · ECS · ECR · Helm · ArgoCD  
+**CI/CD:** GitHub Actions · Azure DevOps · Jenkins · GitLab CI · AWS CodePipeline  
+**Observability:** Prometheus · Grafana · ELK · CloudWatch · Azure Monitor · Better Stack  
+**Security & Compliance:** IAM · RBAC · OIDC · Secrets Manager · Key Vault · SAST (Semgrep, Codacy) · Gitleaks · DAST · HIPAA · SOC 2 · GDPR · NIST  
+**AI / LLM:** RAG · LangChain · LLM app deployment · AI agents · Solution Architecture  
+**Full-Stack:** React · Next.js · Node.js · TypeScript · Python (FastAPI, Flask, Django)  
+**Databases:** PostgreSQL · MySQL · MongoDB · Azure SQL · Redis  
+**Networking:** VPC/VNet · Site-to-Site & Point-to-Site VPN · Private Endpoints · DNS · Load Balancing  
+**Languages:** Python · Bash · JavaScript/TypeScript · PHP · C#
 
-### 🛠️ ERP Application
-**Personal Application** (August 2020 - December 2020)
-- 🖥️ Created an ERP system in Windows Form Application using MySQL Server and C#.
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages">
+</p>
+
+---
 
 ## 🎓 Education
-**Bachelors in Computer Science**  
-City University of Science and Information Technology, Peshawar, Pakistan (2021)  
-📊 CGPA: 3.04
 
-## 📜 Certifications
-- 🎓 **Terraform** - Certified Terrafom from HashiCorp
-- 🎓 **CKA** - Certified Kubernetes Administrator
-- 🎓 **Udemy Labs** - Online Kubernetes Lab, KodeKloud (2024)
-- 🎓 **AWS Cloud Practitioner**, AWS (2023)
-- 🎓 **AWS Solution Architect Associate**, AWS (2023)
-- 🎓 **AWS Solution Architect**, Contour Software (2023)
+**B.Sc. Computer Science** — University of Engineering & Technology (UET) · 2021 · GPA 3.44 / 4.0
 
-## 🛠️ Skills
-- **Frontend**: 🌐 CSS, HTML, Basic JavaScript, React.js, Angular, Bootstrap
-- **DevOps**: 🛠️ Jenkins, CodePipeline, Docker, GitHub Actions, Bash Scripting, Linux, AWS, Azure, Grafana, Kubernetes, etcd
-- **Cloud**: ☁️ AWS, Azure, Virtualization in Dedicated Server
-- **Programming Languages**: 💻 C#, PHP, Bash, Python, JavaScript
-- **Backend**: 🖥️ PHP, Express.js, Basic Concepts of Django, Flask
+---
+
+<p align="center"><i>Open to senior DevOps / Cloud / Platform and AI-infrastructure work. Let's build something reliable.</i></p>
